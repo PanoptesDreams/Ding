@@ -28,3 +28,8 @@ Creating a conditional script to play a 'Success' tone or 'Failure' tone dependi
 Setting a Scheduled task to remind an Operator to move regularly
 
 Setting a Scheduled task to notify an Operator of a significant time (Lunch/Break Time, Midnight Chime)
+
+
+## Demo
+
+[Ding Demo on YouTube](https://youtu.be/OJHtrAIaylw)
